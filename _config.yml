@@ -1,1 +1,4 @@
-theme: jekyll-theme-minima
+title: Frank Peña's Software Engineering Blog
+description: This contains my thoughts pertaining to software engineering. 
+
+theme: minima
