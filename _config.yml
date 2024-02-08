@@ -4,5 +4,4 @@ description: This contains my thoughts pertaining to software engineering.
 theme: minima
 
 header_pages:
-  - about.md
-  - portfolio.md
+  - about.md  
