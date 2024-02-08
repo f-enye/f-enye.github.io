@@ -2,3 +2,7 @@ title: Frank Peña's Software Engineering Blog
 description: This contains my thoughts pertaining to software engineering. 
 
 theme: minima
+
+header_pages:
+  - about.md
+  - portfolio.md
