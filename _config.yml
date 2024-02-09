@@ -1,7 +1,19 @@
-title: Frank Peña's Software Engineering Blog
-description: This contains my thoughts pertaining to software engineering. 
+title: frankenye.com
+description: This contains blog posts pertaining to software engineering written by me (Frank Peña).
+github_username: f-enye
 
+# Build settings
 theme: minima
+plugins:
+  - jekyll-feed
 
-header_pages:
-  - about.md  
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - README.md
+  - CNAME
