@@ -1,13 +1,13 @@
 title: frankenye.com
-description: This contains blog posts pertaining to software engineering written by me (Frank Peña).
+description: My thoughts on all things related to software engineering.
 author:
   name: Frank Peña
+  email: ""
 
 # Build settings
-remote_theme: jekyll/minima@10124515953527c8990a2de99ae4ddb2a81ffee3
+theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme
 
 minima:
   skin: auto
@@ -21,6 +21,9 @@ minima:
 
 header_pages:
   - about.md
+
+show_excerpts: true
+excerpt_separator: <!--more-->
 
 exclude:
   - .sass-cache/
