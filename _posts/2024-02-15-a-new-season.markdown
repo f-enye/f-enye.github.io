@@ -8,7 +8,6 @@ I'm trying something new...
 
 <!--more-->
 
-
 <img 
  class="center"
  alt="lighthouse" 

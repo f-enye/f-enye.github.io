@@ -1,5 +1,6 @@
 ---
 layout: page
+internal_name: about-me
 title: About Me
 permalink: /about-me/
 --- 

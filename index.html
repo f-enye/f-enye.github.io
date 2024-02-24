@@ -1,3 +1,7 @@
 ---
-layout: home
+layout: frankenye-home
+list_title: Articles
 ---
+{%- assign about_me_page = site.pages | where: "internal_name", "about-me" | first %} 
+
+<p>I'm Frank Peña, a software engineer in Austin, Texas. You can learn <a href="{{ about_me_page.url | relative_url }}">more about me here</a>. Below are some articles I've written about software engineering.</p>
