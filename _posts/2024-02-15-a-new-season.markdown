@@ -4,7 +4,7 @@ title:  "A New Season"
 date: 2024-02-15 6:50:00 -0600
 tags: blogging announcement
 ---
-I'm trying something new..
+I'm trying something new...
 
 <!--more-->
 
