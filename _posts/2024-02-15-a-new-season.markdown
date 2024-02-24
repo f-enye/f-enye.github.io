@@ -19,4 +19,4 @@ I'm trying something new..
 
 I've been working in the software industry for 10+ years. I learn so much from my friends and colleagues who are in the same line of work.
 
-I get excited to share what I learn with my friends and colleagues, so I'm going to try something new. I aim to write 3+ blog posts a year. I plan on doing this for as long as I think this is fun.
+I get excited to share what I learn with my friends and colleagues, so I'm going to try something new. I aim to write 3+ blog posts a year about software engineering. I plan on doing this for as long as I think this is fun.
