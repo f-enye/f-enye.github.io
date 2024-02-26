@@ -4,8 +4,8 @@ title: Resume
 permalink: /resume/
 ---
 
-<object 
-    title="Frank Peña's Resume" 
-    type="application/pdf" 
+<iframe
+    title="Frank Peña's Resume"  
     width="100%"
-    data="{{site.url}}/assets/resumes/2024-02-24-Francisco-Peña-Resume.pdf" />
+    frameborder=0
+    src="{{site.url}}/assets/resumes/2024-02-24-Francisco-Peña-Resume.pdf" />
