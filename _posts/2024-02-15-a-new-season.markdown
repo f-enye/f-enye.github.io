@@ -9,9 +9,9 @@ I'm trying something new...
 <!--more-->
 
 <img 
- class="center"
- alt="lighthouse" 
-    src="{{site.url}}/assets/img/2024-02-15-a-new-season/lighthouse.jpg"
+    class="center"
+    alt="lighthouse" 
+    src="{{site.url}}/assets/images/2024-02-15-a-new-season/lighthouse.jpg"
     width="200"
     height="338"/>
 

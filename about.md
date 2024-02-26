@@ -6,7 +6,7 @@ permalink: /about-me/
 --- 
 <img alt="Frank Peña" 
     class="align-right" 
-    src="{{site.url}}/assets/img/about-me/frank-peña.jpg"
+    src="{{site.url}}/assets/images/about-me/frank-peña.jpg"
     width="200"
     height="200"/>
 My name is Frank Peña. I'm a Software Engineer based in Austin, Texas. This is frankenye.com where I share my thoughts about anything related to software engineering.
